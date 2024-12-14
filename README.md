@@ -3,7 +3,7 @@ This program implements Huffman Coding to compress and decompress strings.
 
 This code implements a Huffman Coding algorithm to compress and decompress strings. Here’s a breakdown of the approach and logic:
 
-1. Classes and Data Structures:**
+1. Classes and Data Structures:
 - Node Class:
   - Represents a node in the frequency table. It holds a character, its frequency, and a pointer to the next node (for creating a linked list).
   
